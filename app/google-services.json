@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "403254918298",
+    "project_id": "homework-68654",
+    "storage_bucket": "homework-68654.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403254918298:android:c132b6bee25cce18e6b323",
+        "android_client_info": {
+          "package_name": "com.example.nofarapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Ah5XVMpl2Fbf0rUgYaPd4eNjK8HdoWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
